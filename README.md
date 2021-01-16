@@ -1,1 +1,2 @@
 # hackintosh-opencore
+m.2SSDをAPFSでフォーマットしてEFIパーテーションを作成してこのEFIを入れるだけ
